@@ -1,5 +1,4 @@
 
-
 AI can be used to enhance website navigation and provide a better user experience for small business websites. In this chapter, we will provide an overview of AI applications for enhanced website navigation in small business website optimization.
 
 Search Functionality

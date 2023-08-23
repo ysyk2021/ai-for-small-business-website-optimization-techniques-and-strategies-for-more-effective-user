@@ -1,5 +1,4 @@
 
-
 Small businesses can leverage various types of artificial intelligence (AI) to optimize their websites and improve user engagement. In this chapter, we will discuss some common types of AI used for small business website optimization.
 
 Machine Learning
