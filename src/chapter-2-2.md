@@ -1,5 +1,4 @@
-Chapter: Types of AI Used for Small Business Website Optimization
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the various types of artificial intelligence (AI) techniques used for small business website optimization. AI has revolutionized the way businesses optimize their websites to enhance user engagement and drive conversions. We delve into the different AI methods employed in website optimization strategies, highlighting their unique characteristics and benefits.
 

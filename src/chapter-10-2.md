@@ -1,5 +1,4 @@
-Chapter: Developing Governance Frameworks to Ensure Responsible AI Use
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of developing governance frameworks for small businesses to ensure responsible use of AI in website optimization. As AI technologies become more prevalent, it is crucial to establish guidelines and mechanisms that promote ethical and accountable AI practices. By implementing robust governance frameworks, small businesses can foster trust, mitigate risks, and maximize the benefits of AI while minimizing potential harms.
 

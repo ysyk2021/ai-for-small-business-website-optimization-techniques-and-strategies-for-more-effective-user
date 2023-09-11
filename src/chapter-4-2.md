@@ -1,5 +1,4 @@
-Chapter: Key Factors to Consider When Choosing AI Tools
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss the key factors that small businesses should consider when choosing AI tools for website optimization. With the increasing availability of AI technologies, it is crucial to select the right tools that align with the business objectives and deliver optimal results. We outline essential considerations to help small businesses make informed decisions when adopting AI tools.
 
